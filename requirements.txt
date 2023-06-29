@@ -47,8 +47,7 @@ networkx==3.1
 # freeglut3
 # libgtk2.0
 # numpy
-opencv-python-headless
-libgl1
+
 oauthlib==3.2.2
 opt-einsum==3.3.0
 packaging==23.1
@@ -99,3 +98,5 @@ watchdog==3.0.0
 Werkzeug==2.3.6
 wrapt==1.14.1
 zipp==3.15.0
+
+opencv-python-headless
