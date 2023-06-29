@@ -75,7 +75,6 @@ six==1.16.0
 smmap==5.0.0
 streamlit==0.81.0
 numpy==1.20.2
-pandas==1.2.4
 sympy==1.12
 tenacity==8.2.2
 tensorboard==2.12.3
