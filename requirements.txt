@@ -23,7 +23,7 @@ GitPython
 google-auth
 google-auth-oauthlib
 google-pasta
-grpcio6
+grpcio
 h5py
 idna
 imageio
