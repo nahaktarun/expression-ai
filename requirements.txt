@@ -20,7 +20,7 @@ fonttools
 gast
 gitdb
 GitPython
-google-auth0
+google-auth
 google-auth-oauthlib
 google-pasta
 grpcio6
