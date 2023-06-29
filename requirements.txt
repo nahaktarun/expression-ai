@@ -9,7 +9,7 @@ charset-normalizer
 click
 colorama
 contourpy
-cycler1
+cycler
 decorator
 facenet-pytorch
 fer
